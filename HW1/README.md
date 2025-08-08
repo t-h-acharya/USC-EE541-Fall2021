@@ -1,4 +1,4 @@
-# Homework #1 – Tools and Fundamentals
+# [Homework #1](./hw_1_pset.pdf) – Tools and Fundamentals
 ## Name: Tejas Harishchandra Acharya
 ## Date: 08/08/2025
 
