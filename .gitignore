@@ -1,0 +1,19 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Common temporary/output files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Other common exclusions
+.DS_Store
+*.log
+*.pyc
+.pytest_cache/
+.env
+venv/
+.idea/
+*.swp
+*.swo
